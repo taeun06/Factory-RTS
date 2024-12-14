@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Movement : MonoBehaviour
+public class ShootingBullet : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -14,3 +14,4 @@ public class Movement : MonoBehaviour
         
     }
 }
+//추가 해야 할것 : 사격 + 사거리 제한 + 데미지 + 탄 튐의 정도 + 탄의 속도 + 연사 속도 

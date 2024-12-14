@@ -996,7 +996,7 @@
             "id": "f7aa6872-9101-4020-8055-c8d3162e7417",
             "actions": [
                 {
-                    "name": "New action",
+                    "name": "CharacterMove",
                     "type": "Value",
                     "id": "08372a87-73b5-48ae-82cf-ba8227550246",
                     "expectedControlType": "Vector2",
@@ -1007,24 +1007,13 @@
             ],
             "bindings": [
                 {
-                    "name": "",
-                    "id": "cefb287f-9ac8-462b-ae3a-c31e4d2271a5",
-                    "path": "",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "New action",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
                     "name": "2D Vector",
                     "id": "4b9716f5-b0e8-4473-8f8c-828c2158e26e",
                     "path": "2DVector",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "New action",
+                    "action": "CharacterMove",
                     "isComposite": true,
                     "isPartOfComposite": false
                 },
@@ -1035,7 +1024,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": ";Keyboard&Mouse",
-                    "action": "New action",
+                    "action": "CharacterMove",
                     "isComposite": false,
                     "isPartOfComposite": true
                 },
@@ -1046,7 +1035,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": ";Keyboard&Mouse",
-                    "action": "New action",
+                    "action": "CharacterMove",
                     "isComposite": false,
                     "isPartOfComposite": true
                 },
@@ -1057,7 +1046,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": ";Keyboard&Mouse",
-                    "action": "New action",
+                    "action": "CharacterMove",
                     "isComposite": false,
                     "isPartOfComposite": true
                 },
@@ -1068,7 +1057,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": ";Keyboard&Mouse",
-                    "action": "New action",
+                    "action": "CharacterMove",
                     "isComposite": false,
                     "isPartOfComposite": true
                 }
